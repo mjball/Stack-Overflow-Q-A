@@ -1,0 +1,28 @@
+ck(
+[
+{ "name": "Answers just to say Thanks!", "description": "Please don't add \"thanks\" as answers. Invest some time in the site and you will gain sufficient <a href=\"http://$SITEURL$/privileges\">privileges</a> to upvote answers you like, which is the $SITENAME$ way of saying thank you."},
+
+{ "name": "Nothing but a URL (and isn't spam)", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
+
+{ "name": "Requests to OP for further information", "description": "This is really a comment, not an answer. With a bit more rep, <a href=\"http://$SITEURL$/privileges/comment\">you will be able to post comments</a>. For the moment I've added the comment for you, and I'm flagging this post for deletion."},
+
+{ "name": "OP using an answer for further information", "description": "Please use the <em>Post answer</em> button only for actual answers. You should modify your original question to add additional information."},
+
+{ "name": "OP adding a new question as an answer", "description": "If you have another question, please ask it by clicking the <a href=\"http://$SITEURL$/questions/ask\">Ask Question</a> button."},
+
+{ "name": "Another user adding a 'Me too!'", "description": "If you have a NEW question, please ask it by clicking the <a href=\"http://$SITEURL$/questions/ask\">Ask Question</a> button. If you have sufficient reputation, <a href=\"http://$SITEURL$/privileges/vote-up\">you may upvote</a> the question. Alternatively, \"star\" it as a favorite and you will be notified of any new answers."},
+
+{ "name": "What have you tried?", "description": "<a href=\"http://whathaveyoutried.com\">What have you tried?</a>"},
+
+{ "name": "Accept my damn answer", "description": "If your problem is solved, would you mind <a href=\"http://meta.stackoverflow.com/questions/5234/how-does-accepting-an-answer-work\">accepting the answer?</a>"},
+
+{ "name": "Answer yourself", "description": "Okay, you should <a href=\"http://meta.stackoverflow.com/questions/17463/can-i-answer-my-own-questions-even-those-where-i-knew-the-answer-before-asking\">answer the question yourself</a> (when the site will allow) or just delete the question, if you think this is too localized to be useful to others in the future."},
+
+{ "name": "Facebook", "description": "This is a programming question and answer site. It has a relationship with Facebook, but this is to help people with programming on Facebook's platform, not to provide support for Facebook in general. Please visit the official Facebook Help Center instead."},
+
+{ "name": ""Not working"", "description": "\"Not working\" is _never_ a sufficient problem description."},
+
+{ "name": "Lack of research", "description": "Why I downvoted this question: http://meta.stackoverflow.com/a/149138/133242"},
+
+]
+)
