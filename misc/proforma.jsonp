@@ -1,4 +1,4 @@
-ck(
+callback(
 [
 { "name": "Answers just to say Thanks!", "description": "Please don't add \"thanks\" as answers. Invest some time in the site and you will gain sufficient <a href=\"http://$SITEURL$/privileges\">privileges</a> to upvote answers you like, which is the $SITENAME$ way of saying thank you."},
 
