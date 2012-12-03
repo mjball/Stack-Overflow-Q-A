@@ -20,7 +20,7 @@ ck(
 
 { "name": "Facebook", "description": "This is a programming question and answer site. It has a relationship with Facebook, but this is to help people with programming on Facebook's platform, not to provide support for Facebook in general. Please visit the official Facebook Help Center instead."},
 
-{ "name": ""Not working"", "description": "\"Not working\" is _never_ a sufficient problem description."},
+{ "name": "\"Not working\"", "description": "\"Not working\" is _never_ a sufficient problem description."},
 
 { "name": "Lack of research", "description": "Why I downvoted this question: http://meta.stackoverflow.com/a/149138/133242"},
 
