@@ -24,6 +24,6 @@ callback(
 
 { "name": "Lack of research", "description": "Why I downvoted this question: http://meta.stackoverflow.com/a/149138/133242"},
 
-{ "name": "RTFjQueryD", "description": "This is a **very** basic question. Sufficient information is provided in the always-useful [jQuery API documentation.](http://api.jquery.com/) I suggest you start there."
+{ "name": "RTFjQueryD", "description": "This is a **very** basic question. Sufficient information is provided in the always-useful [jQuery API documentation.](http://api.jquery.com/) I suggest you start there."}
 ]
 )
